@@ -17,8 +17,8 @@ The application allows users to browse and manage books, with features like:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/book-store-mern.git
-cd book-store-mern
+git clone https://github.com/skander2001/Bookstore.git
+cd Bookstore
 ```
 2. Install dependencies for both the backend and frontend:
 ```bash
